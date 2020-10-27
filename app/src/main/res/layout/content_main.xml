@@ -9,7 +9,7 @@
     tools:showIn="@layout/activity_main">
 
     <Switch
-        android:id="@+id/switch1"
+        android:id="@+id/on_campus"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="On Campus"
@@ -17,10 +17,10 @@
         tools:layout_editor_absoluteY="104dp" />
 
     <Switch
-        android:id="@+id/switch2"
+        android:id="@+id/available"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="On Work"
+        android:text="Available"
         tools:layout_editor_absoluteX="79dp"
         tools:layout_editor_absoluteY="178dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
