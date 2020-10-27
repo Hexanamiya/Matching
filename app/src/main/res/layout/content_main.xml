@@ -10,9 +10,6 @@
 
     <Switch
         android:id="@+id/switch1"
-        android:layout_width="82dp"
-        android:layout_height="54dp"
-        android:text="On Campus"
         tools:layout_editor_absoluteX="76dp"
         tools:layout_editor_absoluteY="104dp" />
 
