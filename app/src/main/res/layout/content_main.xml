@@ -10,9 +10,6 @@
 
     <Switch
         android:id="@+id/switch1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="available"
         tools:layout_editor_absoluteX="76dp"
         tools:layout_editor_absoluteY="104dp" />
 
@@ -20,7 +17,7 @@
         android:id="@+id/switch2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Switch"
+        android:text="On work"
         tools:layout_editor_absoluteX="79dp"
         tools:layout_editor_absoluteY="178dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
